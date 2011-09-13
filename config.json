@@ -101,7 +101,7 @@
         "simulator.selPort"     : 4444,
         "simulator.testBrowser" : "*firefox",
         "simulator.autHost"     : "http://localhost",
-        "simulator.autPath"     : "/qooxdoo-tutorial/build/index.html
+        "simulator.autPath"     : "/qooxdoo-tutorial/build/index.html"
       }
     }
   }
